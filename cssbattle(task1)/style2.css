@@ -1,0 +1,67 @@
+.card{
+    background-color: rgb(235, 217, 217);
+    width: 30vw;
+    height: 80vw;
+    
+}
+.red{
+    background-color:#d82614;
+    margin: 20px;
+    border-radius: 20px;
+    height: 60vw;
+
+
+}
+img{
+    width: 20vw;
+    justify-content: center;
+    align-items: center;
+    
+    
+    margin: 40px;
+    border-radius: 20px;
+
+    }
+h2{
+    margin: 40px;
+    font-size:70px ;
+    color: white;
+}
+h5{
+    font-size:20px;
+    justify-items: center;
+    text-align: center;
+    color: black;
+    opacity: 0.7;
+
+}
+h1{
+    text-align: center;
+    margin-top: 40px;
+    color: black;
+    
+}
+.mark{
+    width: 40px;
+    height: 40px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 30px;
+   font-weight: 600;
+   color: white;
+    background-color: red;
+    border-radius: 80px;
+}
+.add{
+    display: flex;
+    justify-content: center;
+}
+.x{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    font-weight: 800;
+    opacity: 0.7;
+    
+}
